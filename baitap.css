@@ -1,0 +1,36 @@
+body
+{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.container
+{
+    background: #00ffff;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.home-product
+{
+    display: flex;
+}
+
+
+.home-product .list
+{
+    width: 300px;
+    margin:20px 50px;
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+.home-product .list img
+{
+    width: 50%;
+    float: left;
+    margin-right: 20px;
+    
+}
+.list .list-1
+{
+    margin-bottom: 20px;
+}
